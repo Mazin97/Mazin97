@@ -35,7 +35,7 @@ I'm Mateus Bertolazo, I'm a Full Stack developer 👨‍💻 who mostly work wit
 
 * Portuguese 
 * English
-* Italian (maybe my Italian will by rusty)
+* Italian (maybe my Italian will be rusty)
 
 <hr>
 
