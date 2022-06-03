@@ -9,7 +9,6 @@ I'm Mateus Bertolazo, I'm a Full Stack developer 👨‍💻 who mostly work wit
 - 🔭 I’m currently working on .NET Projects.
 - 🌱 I’m currently learning TDD, Unit Tests and SOLID mostly with Balta.io platform.
 - 👯 I’m looking to collaborate on Open Source API's with .NET
-- 💬 Ask me about: tech and games, mostly CS and Dota 2.
 -  ⚡ Technologies: .NET, C#, Razor, SQL Server
 
 <hr>
