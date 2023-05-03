@@ -36,11 +36,3 @@ I'm Mateus Bertolazo, I'm a Full Stack developer 👨‍💻 who mostly work wit
 * Italian (maybe my Italian will be rusty)
 
 <hr>
-
-## Some cool info:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazin97&theme=dracula)](https://github.com/mazin97/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazin97&show_icons=true&theme=dracula)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mazin97.mazin97)
