@@ -7,9 +7,8 @@
 I'm Mateus Bertolazo, I'm a Full Stack developer 👨‍💻 who mostly work with .NET Backend. Passionate developer who enjoys an good code.
 
 - 🔭 I’m currently working on .NET Projects.
-- 🌱 I’m currently learning TDD, Unit Tests and SOLID mostly with Balta.io platform.
-- 👯 I’m looking to collaborate on Open Source API's with .NET
--  ⚡ Technologies: .NET, C#, Razor, SQL Server
+- 🌱 I’m currently learning about Kafka, EKS, Elasticsearch.
+- ⚡ Technologies: .NET, C#, Kafka, Docker, Elasticsearch
 
 <hr>
 
